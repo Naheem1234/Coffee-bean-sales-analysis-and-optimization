@@ -6,7 +6,7 @@ This Project presents a strategic analysis of Global Coffee Supplies Ltd’s cof
 
 ### Data Sources
 
-Coffee Bean Sales Data: The primary dataset used for this analysis is the "Raw Data" file, containing detailed information about the bean type, sales made by the company.
+Coffee Bean Sales Data: The primary dataset used for this analysis is the "Raw Data.xlsx" file, containing detailed information about the bean type, sales made by the company.
 
 ### Tools
 
